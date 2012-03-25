@@ -1,0 +1,2 @@
+Fast table driven macro defined 8 bit CRC module for use with small microcontrollers with limited memory and stack space.At program start call init_crc8() to initialize crc table. For crc calculations expand the macro CRC8. See test.c for usage. 
+
